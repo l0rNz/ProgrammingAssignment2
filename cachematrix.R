@@ -1,7 +1,7 @@
 ## Programming Assignment 2 - R Programming
 ## 
-## Two functions that compute the inverse of a matrix and caches the result so that, if the calculation is
-## attempted again over the same variable R first checks if it's been cached. If that's the case a message 
+## Two functions that compute the inverse of a matrix and cache the result so that, if the calculation is
+## attempted again over the same variable, R first checks if the result has been cached. If that's the case, a message 
 ## is returned together with the inverse of the matrix.
 ## 
 ## makeCacheMatrix defines a list of functions to get and the set the values so that cacheSolve can verify 
